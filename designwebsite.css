@@ -1,0 +1,42 @@
+.bt1{display:block;
+background:#f1f1f1;
+width:130px;
+height:36px;
+border:none;
+border-radius:5px;
+margin-left:auto;
+margin-right:auto;
+font-size:19px;
+margin-top:15px;
+padding-top:5px;
+
+
+}
+
+.bt2{display:block;
+background:#f1f1f1;
+width:130px;
+height:36px;
+border:none;
+border-radius:5px;
+margin-left:auto;
+margin-right:auto;
+font-size:19px;
+margin-top:15px;
+padding-top:5px;
+
+
+}
+
+.myhead .image
+{
+	display:block;
+	width:200px;
+	height:150px;
+	position:relative;
+	left:50%;
+	clear:both;
+	
+	
+	
+}
